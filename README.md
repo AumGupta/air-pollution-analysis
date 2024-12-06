@@ -30,7 +30,7 @@ The analysis is conducted in the following steps:
 
 ## Usage
 
-1. **Jupyter Notebook**: The analysis is performed in a Jupyter Notebook (`no2_analysis.ipynb`). You can open and run the notebook to explore the step-by-step analysis.
+1. **Jupyter Notebook**: The analysis is performed in a Jupyter Notebook ([`no2_analysis.ipynb`](https://github.com/AumGupta/air-pollution-analysis/blob/main/no2_analysis.ipynb)). You can open and run the notebook to explore the step-by-step analysis.
    
 2. **Running the Analysis**: To run the analysis, simply open the notebook and execute the cells in order. Make sure you have access to **Sentinel-5P** data via the **SentinelHub** service.
 
