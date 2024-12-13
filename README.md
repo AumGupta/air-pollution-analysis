@@ -2,6 +2,8 @@
 
 This repository contains a detailed analysis of NO₂ (Nitrogen Dioxide) pollution across India over the period of 2020 to 2024. The analysis focuses on understanding the temporal and spatial trends of NO₂ levels using Sentinel-5P satellite data.
 
+![download](https://github.com/user-attachments/assets/3c3f3424-ded5-47d2-9b4e-892c4e7c65a0)
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Data Source](#data-source)
